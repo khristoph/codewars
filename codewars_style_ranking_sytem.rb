@@ -65,3 +65,5 @@ p user.inc_progress(7)
 benji = User.new
 p benji.progress
 p user.progress
+
+
